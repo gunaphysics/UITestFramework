@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/UITestFramework.iml" filepath="$PROJECT_DIR$/.idea/modules/UITestFramework.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/UITestFramework_main.iml" filepath="$PROJECT_DIR$/.idea/modules/UITestFramework_main.iml" group="UITestFramework" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/UITestFramework_test.iml" filepath="$PROJECT_DIR$/.idea/modules/UITestFramework_test.iml" group="UITestFramework" />
+    </modules>
+  </component>
+</project>

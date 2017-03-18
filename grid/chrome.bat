@@ -1,0 +1,1 @@
+java -Dwebdriver.ie.driver=chromedriver.exe -jar selenium-server-standalone-3.3.1.jar -port 5556 -role node -hub http://localhost:4444/grid/register -browser "browserName=chrome,platform=WINDOWS,maxInstances=2" -maxSession 2

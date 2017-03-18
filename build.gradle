@@ -20,5 +20,10 @@ dependencies {
     compile group: 'org.apache.poi', name: 'poi-ooxml', version: '3.15'
 // https://mvnrepository.com/artifact/com.relevantcodes/extentreports
     compile group: 'com.relevantcodes', name: 'extentreports', version: '2.41.2'
+}
 
+test {
+    useTestNG() {
+        suites './testsuite.xml'
+    }
 }

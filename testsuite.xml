@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Test-class Suite" parallel="tests" thread-count="3">
+
+<test name="Test-class test 1">
+  <!--  <parameter name="setBrowser" value="chrome" />-->
+    <classes>
+        <class name="testcases.TC_01_VerifyLoginDetails" />
+    </classes>
+</test>
+
+</suite>
