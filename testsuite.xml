@@ -6,7 +6,7 @@
     <classes>
         <class name="testcases.TC_01_VerifyLoginDetails" />
         <class name="testcases.TC_02_VerifyCheckOutDate" />
-        <class name="testcases.TC_03_VerifyCheckInDate" />
+
     </classes>
 </test>
 
