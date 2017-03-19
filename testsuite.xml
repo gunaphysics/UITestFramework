@@ -5,7 +5,7 @@
   <!--  <parameter name="setBrowser" value="chrome" />-->
     <classes>
         <class name="testcases.TC_01_VerifyLoginDetails" />
-        <class name="testcases.TC_02_VerifyCheckOutDate" />
+
 
     </classes>
 </test>
