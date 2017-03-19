@@ -42,7 +42,7 @@ public class GenericWrappers {
 	}
 
 	/**
-	 * This method will launch only firefox and maximise the browser and set the
+	 * This method will launch only chrome and maximise the browser and set the
 	 * wait for 30 seconds and load the url
 	 * @author Babu - TestLeaf
 	 * @param url - The url with http or https

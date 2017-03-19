@@ -9,7 +9,7 @@ public class TC_01_VerifyLoginDetails extends OpentapsWrappers {
 	
 	@BeforeClass
 	public void startTestCase(){
-		browserName 	= "firefox";
+		browserName 	= "chrome";
 		dataSheetName 	= "TC01_Login";
 		testCaseName 	= "TC01 -Adactin Login (POM)";
 		testDescription = "Login to Adactin.com using POM framework";
