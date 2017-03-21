@@ -2,6 +2,10 @@ group 'com.selenium'
 version '1.0-SNAPSHOT'
 
 apply plugin: 'java'
+task wrapper(type: Wrapper) {
+    gradleVersion = '3.1'
+    distributionUrl = "https://services.gradle.org/distributions/gradle-$gradleVersion-all.zip"
+}
 
 sourceCompatibility = 1.8
 targetCompatibility = 1.8
